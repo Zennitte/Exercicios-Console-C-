@@ -1,0 +1,16 @@
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Exercícios_Console\Exercício_Empresa\bin\Debug\net5.0\Exercício_Empresa.exe
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Exercícios_Console\Exercício_Empresa\bin\Debug\net5.0\Exercício_Empresa.deps.json
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Exercícios_Console\Exercício_Empresa\bin\Debug\net5.0\Exercício_Empresa.runtimeconfig.json
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Exercícios_Console\Exercício_Empresa\bin\Debug\net5.0\Exercício_Empresa.runtimeconfig.dev.json
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Exercícios_Console\Exercício_Empresa\bin\Debug\net5.0\Exercício_Empresa.dll
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Exercícios_Console\Exercício_Empresa\bin\Debug\net5.0\ref\Exercício_Empresa.dll
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Exercícios_Console\Exercício_Empresa\bin\Debug\net5.0\Exercício_Empresa.pdb
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Exercícios_Console\Exercício_Empresa\obj\Debug\net5.0\Exercício_Empresa.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Exercícios_Console\Exercício_Empresa\obj\Debug\net5.0\Exercício_Empresa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Exercícios_Console\Exercício_Empresa\obj\Debug\net5.0\Exercício_Empresa.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Exercícios_Console\Exercício_Empresa\obj\Debug\net5.0\Exercício_Empresa.AssemblyInfo.cs
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Exercícios_Console\Exercício_Empresa\obj\Debug\net5.0\Exercício_Empresa.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Exercícios_Console\Exercício_Empresa\obj\Debug\net5.0\Exercício_Empresa.dll
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Exercícios_Console\Exercício_Empresa\obj\Debug\net5.0\ref\Exercício_Empresa.dll
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Exercícios_Console\Exercício_Empresa\obj\Debug\net5.0\Exercício_Empresa.pdb
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Exercícios_Console\Exercício_Empresa\obj\Debug\net5.0\Exercício_Empresa.genruntimeconfig.cache

@@ -1,0 +1,17 @@
+Conversor de Nascimento{
+
+    inteiro dataNascimento
+    inteiro idadeAnos
+    inteiro idadeMeses
+    inteiro idadeSemanas
+
+    algoritmo inicio{
+        
+        escreva ("Escreva seu ano de nascimento")
+        leia ("dataNascimento")
+
+        escreva ("Sua idade é" + idadeAnos + "anos \n")
+
+        escreva ("sua idade em semanas é" + idadeSemanas + "\n")
+    }
+}

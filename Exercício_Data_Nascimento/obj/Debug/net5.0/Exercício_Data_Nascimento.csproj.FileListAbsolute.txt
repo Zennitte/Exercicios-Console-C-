@@ -1,0 +1,16 @@
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Exercícios_Console\Exercício_Data_Nascimento\bin\Debug\net5.0\Exercício_Data_Nascimento.exe
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Exercícios_Console\Exercício_Data_Nascimento\bin\Debug\net5.0\Exercício_Data_Nascimento.deps.json
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Exercícios_Console\Exercício_Data_Nascimento\bin\Debug\net5.0\Exercício_Data_Nascimento.runtimeconfig.json
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Exercícios_Console\Exercício_Data_Nascimento\bin\Debug\net5.0\Exercício_Data_Nascimento.runtimeconfig.dev.json
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Exercícios_Console\Exercício_Data_Nascimento\bin\Debug\net5.0\Exercício_Data_Nascimento.dll
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Exercícios_Console\Exercício_Data_Nascimento\bin\Debug\net5.0\ref\Exercício_Data_Nascimento.dll
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Exercícios_Console\Exercício_Data_Nascimento\bin\Debug\net5.0\Exercício_Data_Nascimento.pdb
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Exercícios_Console\Exercício_Data_Nascimento\obj\Debug\net5.0\Exercício_Data_Nascimento.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Exercícios_Console\Exercício_Data_Nascimento\obj\Debug\net5.0\Exercício_Data_Nascimento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Exercícios_Console\Exercício_Data_Nascimento\obj\Debug\net5.0\Exercício_Data_Nascimento.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Exercícios_Console\Exercício_Data_Nascimento\obj\Debug\net5.0\Exercício_Data_Nascimento.AssemblyInfo.cs
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Exercícios_Console\Exercício_Data_Nascimento\obj\Debug\net5.0\Exercício_Data_Nascimento.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Exercícios_Console\Exercício_Data_Nascimento\obj\Debug\net5.0\Exercício_Data_Nascimento.dll
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Exercícios_Console\Exercício_Data_Nascimento\obj\Debug\net5.0\ref\Exercício_Data_Nascimento.dll
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Exercícios_Console\Exercício_Data_Nascimento\obj\Debug\net5.0\Exercício_Data_Nascimento.pdb
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Exercícios_Console\Exercício_Data_Nascimento\obj\Debug\net5.0\Exercício_Data_Nascimento.genruntimeconfig.cache

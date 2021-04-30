@@ -1,0 +1,22 @@
+Conversor de Idade{
+
+    inteiro idadeAnos
+    inteiro idadeMeses
+    inteiro idadeDias
+    inteiro idadeHoras
+    inteiro idadeMinutos
+
+    algoritmo inicio{
+
+        escreva ("Escreva sua idade")
+        leia ("idadeAnos")
+
+        escreva ("Sua idade em meses é " + idadeMeses + "\n")
+
+        escreva ("Sua idade em dias é " + idadeDias + "\n")
+
+        escreva ("Sua idade em horas é" + idadeHoras + "\n")
+
+        escreva ("Sua idade em minutos é " + idadeMinutos)
+    }
+}

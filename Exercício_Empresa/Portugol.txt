@@ -1,0 +1,18 @@
+Elegibilidade do Aumento{
+
+    real salario
+    real salarioPercentual
+    real salarioAumento
+
+    algoritimo inicio{
+
+        escreva ("Digite seu salário")
+        leia ("salario")
+
+        se (salario < 500){            
+        escreva ("Você está elegivel para um aumento, seu novo salário é " + salarioAumento)
+        } senao {
+            escreva ("Você não é elegivel para um aumento")
+        }
+    }
+}

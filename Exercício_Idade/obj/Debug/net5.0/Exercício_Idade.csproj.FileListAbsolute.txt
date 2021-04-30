@@ -1,0 +1,16 @@
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Exercício_Idade\bin\Debug\net5.0\Exercício_Idade.exe
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Exercício_Idade\bin\Debug\net5.0\Exercício_Idade.deps.json
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Exercício_Idade\bin\Debug\net5.0\Exercício_Idade.runtimeconfig.json
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Exercício_Idade\bin\Debug\net5.0\Exercício_Idade.runtimeconfig.dev.json
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Exercício_Idade\bin\Debug\net5.0\Exercício_Idade.dll
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Exercício_Idade\bin\Debug\net5.0\ref\Exercício_Idade.dll
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Exercício_Idade\bin\Debug\net5.0\Exercício_Idade.pdb
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Exercício_Idade\obj\Debug\net5.0\Exercício_Idade.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Exercício_Idade\obj\Debug\net5.0\Exercício_Idade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Exercício_Idade\obj\Debug\net5.0\Exercício_Idade.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Exercício_Idade\obj\Debug\net5.0\Exercício_Idade.AssemblyInfo.cs
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Exercício_Idade\obj\Debug\net5.0\Exercício_Idade.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Exercício_Idade\obj\Debug\net5.0\Exercício_Idade.dll
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Exercício_Idade\obj\Debug\net5.0\ref\Exercício_Idade.dll
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Exercício_Idade\obj\Debug\net5.0\Exercício_Idade.pdb
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Exercício_Idade\obj\Debug\net5.0\Exercício_Idade.genruntimeconfig.cache
