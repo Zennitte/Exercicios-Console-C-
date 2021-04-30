@@ -1,6 +1,7 @@
 Conversor de Nascimento{
 
     inteiro dataNascimento
+    inteiro anoAtual
     inteiro idadeAnos
     inteiro idadeMeses
     inteiro idadeSemanas

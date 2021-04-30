@@ -11,8 +11,10 @@ namespace Exercício_Data_Nascimento
             Console.WriteLine("Escreva seu ano de nascimento");
             Console.ForegroundColor = ConsoleColor.Red;
             int dataNascimento = int.Parse(Console.ReadLine());
+
+            int anoAtual = DateTime.Now.Year;
             
-            int idadeAnos = 2021 - dataNascimento;
+            int idadeAnos = anoAtual - dataNascimento;
             Console.ForegroundColor = ConsoleColor.DarkBlue;
             Console.WriteLine("Sua idade é " + idadeAnos +" anos \n");
 
